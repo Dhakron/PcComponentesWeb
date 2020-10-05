@@ -1,0 +1,33 @@
+<p class="pc-especificacion-producto">
+                      Una vez mas PcComponentes sorprende a la industria de la informatica con el lanzamiento de los nuevos PcCom, la nueva linea de Pcs de sobremesa con componentes especificos para juegos, creada tras un amplio trabajo de investigacion para ofrecer el mayor rendimiento y optimizacion en el juego para nuestros clientes. Ensamblados por nuestros expertos de montaje, los nuevos PcCom ofrecen un rendimiento increible, con maxima velocidad, capacidad de ampliacion y un amplio abanico de posibilidades dentro de la gama, en la que podra elegir el producto optimo segun las necesidades y el tipo de Pc que esta buscando.
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Caracteristicas:</h3>
+                    <p class="pc-especificacion-producto">
+                     VR Ready. Preparate para el futuro, gracias a la nueva generacion de procesadores Intel i9 y a su potente grafica Asus Nvidia GTX 2080Ti estaras preparado para la invasion de la Realidad Virtual, !No es el futuro, es el presente !. Una maquina indomable que te brindara una sensacion de potencia descomunal a la hora de jugar. Creado y ensamblado especialmente para el Youtuber Ibai con la mayor precision por nuestros tecnicos y los mejores componentes del momento, el PcCom Platinum posee unas condiciones inigualables para el juego, superando ampliamente los requisitos tecnicos requeridos por los juegos que actualmente van apareciendo en el mercado. Cuenta con 32GB de RAM a 3200Mhz, un rapidisimo SSD M.2 SATA de 500GB que te sorprendera con sus 3500MB de lectura y hasta 3200MB de escritura y una espectacular refrigeracion liquida Cooler Master MasterLiquid ML240R RGB con la que obtendras la mejor temperatura para el potente procesador i9-9900K de ultima generacion. Todo ello montado en la espectacular torre Cooler Master Cosmos C700P Cristal Templado USB 3.0 con chasis de aluminio y laterales de vidrio templado panoramico, ensamblado en la placa base Asus Rog Maximus XI Apex y alimentado con la fuente Cooler Master V Series 750W 80 Plus Gold Full Modular.
+
+En definitiva, el equipo perfecto para los que buscan el maximo rendimiento durante mucho tiempo y el mejor acabado con los mejores componentes del mercado.
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Especificaciones:</h3>
+                    <p class="pc-especificacion-producto">
+                      Torre: Cooler Master Cosmos C700P Cristal Templado USB 3.0
+Fuente de alimentacion: Cooler Master V Series 750W 80 Plus Gold Full Modula
+Procesador: Intel Core i9-9900K 3.6Ghz
+Ventilador: Cooler Master MasterLiquid ML240R RGB
+Placa Base: Asus Rog Maximus XI Apex
+Disco duro:
+4TB SATA3 64MB
+M.2 SSD 480GB
+Memoria: G.Skill Trident Z RGB DDR4 3200 PC4-25600 32GB 2x16GB CL15
+Grafica: Asus Rog Strix GeForce RTX 2080Ti Advanced Edition 11GB GDDR6
+HDMI x 2 (version 2.0b)
+DisplayPort x 2 (version 1.4)
+Conexiones delanteras: El panel frontal de E/S incluye controlador RGB de tres botones, puerto USB 3.0 (2), conexion de auriculares y microfono, botones de encendido y de restauracion
+Conexiones traseras:
+Cantidad de puertos tipo A USB 3.0 (3.1 Gen 1): 4
+Cantidad de puertos tipo A USB 3.1 (3.1 Gen 2): 6
+Puerto de raton PS/2: 2
+Salidas para auriculares: 1
+Microfono, jack de entrada: Si
+Puerto de salida S/PDIF: Si
+Dimensiones (L x An x Al): 639 x 306 x 651 mm
+</p>

@@ -1,0 +1,116 @@
+<p class="pc-especificacion-producto">
+                      Resolucion 4K UHD real.Disfruta de imagenes nitidas y brillantes con el televisor 4K UHD, con una resolucion cuatro veces superior a la del Full HD. Preparate para percibir hasta el mas minimo detalle en todas tus escenas.
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Caracteristicas:</h3>
+                    <p class="pc-especificacion-producto">
+                      HDR10+, no te pierdas ni un solo detalle Preparate para ver tu contenido HDR10+ con una mejor nitidez y unos colores mas precisos. No te perderas ni un solo detalle, incluso en escenas brillantes u oscuras.
+PurColor Vive una experiencia visual a todo color. Por fin podras disfrutar de tu contenido preferido con colores mas vivos y realistas.
+UHD Dimming La tecnologia UHD Dimming divide la pantalla en secciones mas pequenas y les aplica ajustes mas precisos de color, nitidez y contraste, lo que hara que veas tu contenido mejor que nunca.
+Una mayor perspectiva Diviertete a lo grande con tu televisor. Vive una autentica experiencia de cine y sumergete por completo en lo que estes viendo.
+Un toque de elegancia y minimalismo en tu salon *La imagen actual del producto puede diferir de la mostrada. Echa un vistazo a nuestra galeria de productos.
+Diseno slim
+Moderno y refinado, su elegante diseno complementara a la perfeccion la decoracion de tu hogar. *La imagen actual del producto puede diferir de la mostrada. Echa un vistazo a nuestra galeria de productos.
+Una forma inteligente de disfrutar de tu televisor Accede a tu contenido de forma rapida y sencilla. Un nuevo asistente personal y un sencillo hub donde controlar todos tus dispositivos. Unete a una experiencia televisiva inteligente.(*)(**)(***)(****) *Imagenes simuladas unicamente para fines ilustrativos. La apariencia y diseno que no afecten al rendimiento del producto estan sujetos a cambios sin previo aviso. **La interfaz grafica final puede variar para Espana. ***Todos los dispositivos deben estar en la misma red y es necesario tener una conexion a internet. ****Es necesario tener una cuenta de Netflix.
+SmartThings, una sola app para todo La app SmartThings* tambien cuenta con Guia universal y mando a distancia. *Los dispositivos compatibles con SmartThings puede variar segun la region. *El servicio e interfaz puede variar segun la region. *Esta funcion puede diferir segun el dispositivo movil y sistema operativo. *Se debe descargar e instalar la app SmartThings.
+Comparte contenido y sincroniza Saca el maximo provecho a Samsung Cloud. Conecta facilmente tu smartphone* Samsung y sincroniza tus fotos. Comparte las imagenes de tu movil y disfruta de ellas en la gran pantalla.
+Esto no es todo. Da la bienvenida al contenido infinito.
+Steam Link Disfruta de tus juegos de la plataforma Steam* en la gran pantalla de tu televisor sin tener que usar ningun de decodificador. La aplicacion Steam Link te permite jugar en streaming facilmente con un rendimiento grafico y una velocidad sorprendente.
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Especificaciones:</h3>
+                    <p class="pc-especificacion-producto">
+                      Pantalla
+Tamano de pantalla 40"
+Resolucion 3,840 x 2,160
+Video
+Motor de Imagen UHD Engine
+PQI 1300
+HDR HDR
+HDR 10+ Simple Luminus
+HLG (Hybrid Log Gamma) Si
+Contrast Mega Contrast
+Color Pur Color
+Micro Dimming UHD Dimming
+Contrast Enhancer Si
+Auto Motion Plus Si
+Modo cine Si
+Modo natural Si
+Audio
+Dolby Digital Plus Si
+Salida de sonido (RMS) 20W
+Tipo de altavoz 2CH
+Multiroom Link Si
+Smart Service
+Smart TV Smart
+TV Plus Si
+Navegador web Si
+SmartThings App Support Si
+Universal Browse & Play Si
+Sintonizador
+Sintonizador digital DVB-T2C
+Sintonizador analogico Si
+CI (Interfaz comun) CI+(1.4)
+HbbTV HbbTV 1.5
+TV Key Support Si
+Conectividad
+HDMI 3
+USB 2
+Entrada componente (Y/Pb/Pr) 1
+Entrada compuesta (AV) 1(Uso Comun para terrestre componente Y)
+Entrada de red (LAN) Si
+Salida de Audio Digital (Optica) 1
+Entrada RF (Terrestre/Entrada) 1/1(Uso Comun para terrestre)
+CI Slot 1
+HDMI A / Retorno al Canal Si
+Conexion rapida HDMI Si
+Wi-Fi Integrado Si
+Anynet+ (HDMI-CEC) Si
+Diseno
+Diseno New Edge (Skinny Bezel)
+Tipo de marco VNB
+Slim Slim
+Color Frontal Charcoal Black
+Tipo de peana Simple Luminus
+Convergencia
+Mirroring (DLNA) de Movil a Televisor Si
+360 Video Player Si
+360 Camera Support Si
+Wi-Fi Direct Si
+Caracteristicas Adicionales
+Procesador Quad-Core
+Accesibilidad Guia de Voz/ Ampliar/ Alto Contraste/ Mando Aprende TV/ Audio Multi-Salida
+Digital Clean View Si
+Busqueda Automatica de Canales Si
+Auto Apagado Si
+Subtitulos Si
+ConnectShare (HDD) Si
+ConnectShare (USB 2.0) Si
+EPG Si
+Modo gaming Si
+Idiomas Sistema Operativo 27 Idiomas Europeos
+Soporte USB HID Si
+Teletexto Si
+Compatible con IPv6 Si
+Caracteristicas Eco
+Sensor Eco Si
+Clase de Eficiencia Energetica A
+Intensidad Maxima
+Fuente de Alimentacion AC220-240V 50/60Hz
+Consumo de Energia (Max.) 140 W
+Dimensiones
+Dimension con Caja (mm) 1021 x 626 x 144 mm
+Dimension con Peana (mm) 913.7 x 604.2 x 210.3 mm
+Dimension sin Peana (mm) 913.7 x 531.5 x 58.8 mm
+Peso
+Peso con Caja (kg) 12,2 kg
+Peso con Peana (kg) 8,8 kg
+Peso sin Peana (kg) 8,6 kg
+Accesorios
+Modelo de Mando a Distancia TM1240A
+Baterias (para el Mando) Si
+Compatible con Soporte Mini Si
+Compatible con Soporte VESA Si
+Manual de Usuario Si
+e-Manual Si
+Cable Alimentacion Si
+Comprar Samsung UE40NU7125 40" LED UltraHD 4K
+</p>

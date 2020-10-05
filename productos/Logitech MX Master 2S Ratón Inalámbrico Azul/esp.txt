@@ -1,0 +1,52 @@
+<p class="pc-especificacion-producto">
+                      MX MASTER 2S es el raton de precision definitivo para usuarios avanzados.
+Aprovecha la potencia de Logitech FLOW y lleva el uso de varios ordenadores a un nuevo y audaz nivel. Controla hasta tres ordenadores y mueve texto, imagenes y archivos entre ellos facilmente. Desplazate por documentos y paginas Web con mayor rapidez y facilidad gracias al boton rueda de velocidad adaptable. MX MASTER 2S esta listo en cuanto tu lo estes. Conserva una carga completa durante mas de dos meses. Y en solo tres minutos obtiene energia suficiente para un dia completo de uso. Funciona practicamente en cualquier superficie con seguimiento de alta precision, incluso sobre cristal con grosor minimo de 4mm. Su forma contorneada creada a mano te permite apoyar la mano y la muneca en una posicion comoda y natural.
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Caracteristicas:</h3>
+                    <p class="pc-especificacion-producto">
+                      Logitech Flow: este raton inalambrico hace posible el control de varios dispositivos y copiar-pegar contenido y documentos entre ordenadores
+Seguimiento de alta precision Darkfield: el raton inalambrico MX Master 2S funciona en cualquier superficie, incluso sobre cristal, con alta precision de hasta 4000 dpi
+Bateria recargable: mediante el cable de carga micro USB, en tan solo 3 minutos puedes obtener energia suficiente para un dia completo de uso, una carga completa puede durar hasta 70 dias
+Experiencia de desplazamiento: boton rueda de velocidad adaptable que cambia automaticamente del desplazamiento clic a clic al superrapido, mas boton para el pulgar para desplazamiento horizontal
+Forma comoda: MX Master 2S se ha disenado con esmero, su forma se amolda a la mano y proporciona una posicion natural y comoda durante muchas horas
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Especificaciones:</h3>
+                    <p class="pc-especificacion-producto">
+                      Requisitos del sistema
+Sistema operativo Windows soportado: Si
+Peso y dimensiones
+Ancho: 126 mm
+Profundidad: 48,4 mm
+Altura: 85,7 mm
+Peso del raton: 145 g
+Ancho de receptor: 1,44 cm
+Fondo del receptor: 6,6 mm
+Altura de receptor: 1,84 cm
+Peso del receptor: 2 g
+Control de energia
+Fuente de energia: Baterias
+Tecnologia de bateria: Polimero de litio
+Capacidad de bateria: 500 mAh
+Dispositivo de entrada
+Interfaz del dispositivo: RF inalambrico
+Utilizar con: Oficina
+Tipo de botones: Botones presionados
+Cantidad de botones: 7
+Tipo de desplazamiento: Rueda
+Resolucion de movimiento:  valor nominal 1000 DPI
+Dpi valores minimo/maximo: 200 a 4000 (ajustable en incrementos de 50 dpi)
+Uso recomendado: Universal
+Numero de ruedas de desplazamiento: 1
+Personalizable resolucion movimiento: Si
+Ergonomia
+Alcance inalambrico: 10 m
+Recargable: Si
+Diseno de plancha ergonomico: Si
+Diseno
+Factor de forma: mano derecha
+Color del producto: Azul
+Interfaz de receptor inalambrico: USB
+Receptor unificador: Si
+Coloracion de superficie: Monotono
+Comprar Logitech MX Master 2S Raton Inalambrico Azul 1000DPI
+</p>

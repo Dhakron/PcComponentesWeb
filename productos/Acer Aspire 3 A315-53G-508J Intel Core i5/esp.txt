@@ -1,0 +1,31 @@
+<p class="pc-especificacion-producto">
+                      Te presentamos el Aspire 3 A315-53G-508J de Acer, un portatil con procesador Intel Core i5  8GB de RAM, 256GB SSDde disco duro y pantalla de 15.6".
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Caracteristicas:</h3>
+                    <p class="pc-especificacion-producto">
+                      Procesador Intel Core i5-8250U (1.6 GHz, 3 MB)
+Memoria RAM 8GB DDR4
+Disco duro 256 GB SSD
+Almacenamiento optico NO DISPONE
+Display 15.6" LED FullHD (1920 x 1080) 16:9
+Controlador grafico nVidia Geforce MX130 2GB GDDR5
+Conectividad
+LAN 10/100
+WiFi 802.11 ac
+Bluetooth 4.0
+Camara de portatil Si
+Microfono Si
+Bateria 3 celdas Ion de litio
+Conexiones
+1 x HDMI
+1 x Combo Audio
+1 x USB 3.0
+2 x USB 2.0
+1 x RJ45
+Lector de Tarjetas 3 en 1 (SD, SDHC, SDXC)
+Sistema operativo Microsoft Windows 10 64bits
+Dimensiones (Ancho x Profundidad x Altura)  381.6 x 262.8 x 20.95mm
+Peso  2.1 kg 
+Color Azul
+                    </p>
+                    

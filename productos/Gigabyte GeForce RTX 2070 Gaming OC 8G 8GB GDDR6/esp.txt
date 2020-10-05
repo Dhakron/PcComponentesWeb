@@ -1,0 +1,47 @@
+<p class="pc-especificacion-producto">
+                      Las tarjetas graficas GeForce RTX utilizan la tecnologia de la arquitectura Turing y la nueva plataforma grafica RTX. Esto proporciona hasta el sextuple de rendimiento que las tarjetas graficas de la anterior generacion y lleva la potencia del trazado en tiempo real y la inteligencia artificial a los juegos.
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Caracteristicas:</h3>
+                    <p class="pc-especificacion-producto">
+                      Desarrollado por GeForce RTX 2070
+Integrado con la interfaz de memoria de 8GB GDDR6 de 256 bits
+Sistema de enfriamiento WINDFORCE 3X con ventiladores alternativos
+RGB Fusion 2.0
+Placa posterior de metal
+Core clock
+1740 MHz in OC mode
+1725 MHz in Gaming mode
+(Reference Card: 1620 MHz)
+                    </p>
+                    <h3 class="pc-especificacion2-producto"> Especificaciones:</h3>
+                    <p class="pc-especificacion-producto">
+                      Graphics Processing: GeForce RTX 2070
+Core Clock
+1740 MHz in OC mode
+1725 MHz in Gaming mode
+(Reference Card: 1620 MHz)
+RTX-OPS
+46 in OC mode
+45 in Gaming mode
+CUDA Cores: 2304
+Memory Clock: 14000 MHz
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Memory Bandwidth (GB/sec): 448 GB/s
+Card Bus: PCI-E 3.0 x 16
+Digital max resolution: 7680x4320@60Hz
+Multi-view: 4
+Card size: L=280.35 W=116.45 H=40.24 mm
+PCB Form: ATX
+DirectX: 12
+OpenGL: 4.5
+Recommended PSU: 550W
+Power Connectors: 8 Pin*1, 6 Pin*1
+Output
+DisplayPort 1.4 *3
+HDMI 2.0b *1
+USB Type-CTM(support VirtualLinkTM) *1
+SLI support: No
+Comprar Gigabyte GeForce RTX 2070 Gaming OC 8G 8GB GDDR6
+</p>
